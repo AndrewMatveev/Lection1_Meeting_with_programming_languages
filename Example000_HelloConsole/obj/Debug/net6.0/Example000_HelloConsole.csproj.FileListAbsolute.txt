@@ -1,0 +1,15 @@
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\bin\Debug\net6.0\Example000_HelloConsole.exe
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\bin\Debug\net6.0\Example000_HelloConsole.deps.json
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\bin\Debug\net6.0\Example000_HelloConsole.runtimeconfig.json
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\bin\Debug\net6.0\Example000_HelloConsole.dll
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\bin\Debug\net6.0\Example000_HelloConsole.pdb
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\Example000_HelloConsole.csproj.AssemblyReference.cache
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\Example000_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\Example000_HelloConsole.AssemblyInfoInputs.cache
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\Example000_HelloConsole.AssemblyInfo.cs
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\Example000_HelloConsole.csproj.CoreCompileInputs.cache
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\Example000_HelloConsole.dll
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\refint\Example000_HelloConsole.dll
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\Example000_HelloConsole.pdb
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\Example000_HelloConsole.genruntimeconfig.cache
+D:\OneDrive\GB\Блок_3_-_Введение_в_программирование_(С#)\Урок_1_Знакомство_с_языком_программирования_C#\Example000_HelloConsole\obj\Debug\net6.0\ref\Example000_HelloConsole.dll
